@@ -1,6 +1,6 @@
 # Hi, I'm Aviad Shakargy 👋
 
-**Full-Stack SaaS Developer** — React · TypeScript · FastAPI · PostgreSQL · Docker
+**Full-Stack SaaS Developer** - React · TypeScript · FastAPI · PostgreSQL · Docker
 
 I build production-ready full-stack products: SaaS platforms, internal dashboards, API-driven workflows, and backend systems with real auth, background jobs, and deployment pipelines.
 
@@ -10,24 +10,24 @@ I build production-ready full-stack products: SaaS platforms, internal dashboard
 
 ## What I Build
 
-- **SaaS products** — 0-to-1, with auth, RBAC, pricing tiers, onboarding, and async workers
-- **React dashboards** — TypeScript, MUI/Tailwind, responsive, real data
-- **FastAPI backends** — PostgreSQL, SQLAlchemy, Alembic, JWT, Celery, Redis
-- **Production infra** — Docker Compose, GitHub Actions, Linux deployment, Playwright QA
+- **SaaS products** - 0-to-1, with auth, RBAC, pricing tiers, onboarding, and async workers
+- **React dashboards** - TypeScript, MUI/Tailwind, responsive, real data
+- **FastAPI backends** - PostgreSQL, SQLAlchemy, Alembic, JWT, Celery, Redis
+- **Production infra** - Docker Compose, GitHub Actions, Linux deployment, Playwright QA
 
 ---
 
 ## Featured Projects
 
-### API Graveyard — API Dependency Intelligence Platform
-> *Private production SaaS — [case study repo](https://github.com/Shakargy/api-graveyard-case-study)*
+### API Graveyard - API Dependency Intelligence Platform
+> *Private production SaaS - [case study repo](https://github.com/Shakargy/api-graveyard-case-study)*
 
 A SaaS platform that maps your external API dependencies, detects breaking changes, monitors changelogs, and surfaces Zombie APIs before they cause production incidents.
 
 `React` `TypeScript` `FastAPI` `PostgreSQL` `Celery` `Redis` `JWT` `RBAC` `Webhooks` `Docker` `Playwright`
 
-### SysSight — Lab & Fleet Monitoring Platform
-> *Private internal system — case study coming soon*
+### SysSight - Lab & Fleet Monitoring Platform
+> *Private internal system - [case study](https://github.com/Shakargy/syssight-case-study)*
 
 Production monitoring platform for computer labs and enterprise endpoints. Agent telemetry, CPU/RAM tracking, software inventory, and admin dashboards used daily in a large academic environment.
 
@@ -48,6 +48,6 @@ Production monitoring platform for computer labs and enterprise endpoints. Agent
 
 ## Currently Looking For
 
-Full-Stack Developer roles where I can build real products — SaaS platforms, backend systems, internal tools, dashboards, and automation pipelines.
+Full-Stack Developer roles where I can build real products - SaaS platforms, backend systems, internal tools, dashboards, and automation pipelines.
 
 📫 [Aviad94@gmail.com](mailto:Aviad94@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aviad-shakargy)
