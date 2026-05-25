@@ -26,7 +26,7 @@ A SaaS platform that maps your external API dependencies, detects breaking chang
 
 `React` `TypeScript` `FastAPI` `PostgreSQL` `Celery` `Redis` `JWT` `RBAC` `Webhooks` `Docker` `Playwright`
 
-### SysSight - Lab & Fleet Monitoring Platform
+### SysSight - Enterprise Endpoint Management Platform
 > *Private internal system - [case study](https://github.com/Shakargy/syssight-case-study)*
 
 End-to-end fleet management platform deployed across enterprise computer labs. Monitors hundreds of Windows workstations in real time, enables remote restart/shutdown/logoff from the browser, and generates P95-based capacity reports that drive hardware procurement decisions.
