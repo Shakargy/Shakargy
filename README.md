@@ -20,7 +20,7 @@ I build production-ready full-stack products: SaaS platforms, internal dashboard
 ## Featured Projects
 
 ### API Graveyard - API Dependency Intelligence Platform
-> *Private production SaaS - [case study repo](https://github.com/Shakargy/api-graveyard-case-study)*
+> *Production SaaS - [public case study](https://github.com/Shakargy/api-graveyard-case-study), private source code*
 
 A SaaS platform that maps your external API dependencies, detects breaking changes, monitors changelogs, and surfaces Zombie APIs before they cause production incidents.
 
@@ -50,4 +50,4 @@ End-to-end fleet management platform deployed across enterprise computer labs. M
 
 Full-Stack Developer roles where I can build real products - SaaS platforms, backend systems, internal tools, dashboards, and automation pipelines.
 
-📫 [Aviad94@gmail.com](mailto:Aviad94@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aviad-shakargy)
+📫 [aviad94@gmail.com](mailto:aviad94@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aviad-shakargy)
