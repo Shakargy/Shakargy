@@ -29,7 +29,7 @@ A SaaS platform that maps your external API dependencies, detects breaking chang
 ### SysSight - Lab & Fleet Monitoring Platform
 > *Private internal system - [case study](https://github.com/Shakargy/syssight-case-study)*
 
-Production monitoring platform for computer labs and enterprise endpoints. Agent telemetry, CPU/RAM tracking, software inventory, and admin dashboards used daily in a large academic environment.
+End-to-end fleet management platform deployed across enterprise computer labs. Monitors hundreds of Windows workstations in real time, enables remote restart/shutdown/logoff from the browser, and generates P95-based capacity reports that drive hardware procurement decisions.
 
 `React` `TypeScript` `FastAPI` `PostgreSQL` `Python Agent` `Windows Services` `MUI`
 
