@@ -20,7 +20,7 @@ I build production-ready full-stack products: SaaS platforms, internal dashboard
 ## Featured Projects
 
 ### API Graveyard - API Dependency Intelligence Platform
-> *Production SaaS - [public case study](https://github.com/Shakargy/api-graveyard-case-study), private source code*
+> *Production SaaS - private source code - [public case study](https://github.com/Shakargy/api-graveyard-case-study) *
 
 A SaaS platform that maps your external API dependencies, detects breaking changes, monitors changelogs, and surfaces Zombie APIs before they cause production incidents.
 
