@@ -26,6 +26,20 @@ A SaaS platform that maps your external API dependencies, detects breaking chang
 
 `React` `TypeScript` `FastAPI` `PostgreSQL` `Celery` `Redis` `JWT` `RBAC` `Webhooks` `Docker` `Playwright`
 
+### Snapilio - Branded Event Galleries for Social Photographers
+> *Production SaaS - private source code - [public case study](https://github.com/Shakargy/snapilio-case-study)*
+
+No-login event galleries with custom branding per photographer. Guests open a link and browse - no signup, no app install. Built for fast image delivery at event scale on GCS-backed Cloud Run.
+
+`Next.js` `TypeScript` `Neon Postgres` `Google Cloud Storage` `Cloud Run`
+
+### SaaSVoice - AI Post Writer with an Anti-AI Voice Score
+> *Public repo - [github.com/Shakargy/saasvoice](https://github.com/Shakargy/saasvoice)*
+
+Turns product updates into founder-style posts that actually sound human. Scores generated drafts against an "Anti-AI" rubric and rewrites the slop until the voice lands.
+
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `LLM Integration` `Docker`
+
 ### SysSight - Enterprise Endpoint Management Platform
 > *Private internal system - [case study](https://github.com/Shakargy/syssight-case-study)*
 
@@ -39,9 +53,9 @@ End-to-end fleet management platform deployed across enterprise computer labs. M
 
 | Area | Stack |
 |---|---|
-| **Frontend** | React, TypeScript, Vite, MUI, Tailwind, responsive dashboards |
-| **Backend** | FastAPI, Node.js, PostgreSQL, Redis, Celery, REST APIs, JWT, webhooks |
-| **Infra & QA** | Docker, GitHub Actions, Linux, Playwright, production debugging |
+| **Frontend** | React, Next.js, TypeScript, Vite, MUI, Tailwind, responsive dashboards |
+| **Backend** | FastAPI, Node.js, PostgreSQL (incl. Neon), Prisma, Redis, Celery, REST APIs, JWT, webhooks |
+| **Infra & QA** | Docker, GitHub Actions, Google Cloud (Cloud Run, GCS), Linux, Playwright, production debugging |
 | **Product** | 0-to-1 SaaS, RBAC, pricing tiers, API monitoring, async workflows |
 
 ---
