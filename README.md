@@ -1,6 +1,6 @@
 # Hi, I'm Aviad Shakargy 👋
 
-**Full-Stack SaaS Developer** - React · TypeScript · FastAPI · PostgreSQL · Docker
+**Full-Stack Developer** - React · TypeScript · FastAPI · PostgreSQL · Docker
 
 I build production-ready full-stack products: SaaS platforms, internal dashboards, API-driven workflows, and backend systems with real auth, background jobs, and deployment pipelines.
 
