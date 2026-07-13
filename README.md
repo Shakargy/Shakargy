@@ -19,6 +19,13 @@ I build production-ready full-stack products: SaaS platforms, internal dashboard
 
 ## Featured Projects
 
+### DevTime - Repository Verification and Engineering Intelligence CLI
+> *Open source - [github.com/Shakargy/devtime](https://github.com/Shakargy/devtime) - `pipx install devtime-ei`*
+
+A local-first CLI that verifies what a repository can actually prove. Scans code, tests, and configs into evidence-backed memory, verifies claims with both-sided contradictions and staleness detection, and ships a read-only MCP server so coding agents query evidence instead of guessing. Listed in the official MCP Registry. No cloud, no telemetry, no code execution.
+
+`Python` `Typer` `SQLite` `MCP` `Static Analysis` `CLI` `PyPI` `GitHub Actions`
+
 ### API Graveyard - API Dependency Intelligence Platform
 > *Production SaaS - private source code - [public case study](https://github.com/Shakargy/api-graveyard-case-study)*
 
