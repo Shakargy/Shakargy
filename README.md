@@ -40,6 +40,13 @@ No-login event galleries with custom branding per photographer. Guests open a li
 
 `Next.js` `TypeScript` `Neon Postgres` `Google Cloud Storage` `Cloud Run`
 
+### Mediqaro - Practice Management for Private Doctors
+> *Production SaaS - private source code - [mediqaro.web.app](https://mediqaro.web.app)*
+
+A Hebrew-first, RTL clinic app for independent doctors: compliant Israeli tax documents (invoice, receipt, credit note) with digital signatures, appointment scheduling, and a financial dashboard. Installable PWA that keeps working offline and syncs on reconnect, with Google and phone-based account recovery.
+
+`JavaScript` `Firebase Auth` `Cloud Firestore` `Firebase Hosting` `PWA` `Service Worker` `GitHub Actions`
+
 ### SaaSVoice - AI Post Writer with an Anti-AI Voice Score
 > *Public repo - [github.com/Shakargy/saasvoice](https://github.com/Shakargy/saasvoice)*
 
